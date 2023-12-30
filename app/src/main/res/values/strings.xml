@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceCV</string>
+    <string name="snap">SNAP</string>
+    <string name="flip">FLIP</string>
+</resources>
